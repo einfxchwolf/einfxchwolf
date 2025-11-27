@@ -1,5 +1,5 @@
 # Hi, I'm einfxchwolf 🐺✨  
-Beginner Programmer • Learning by Building
+Beginner Programmer
 
 ---
 
@@ -19,11 +19,6 @@ Beginner Programmer • Learning by Building
 
 ---
 
-## 🐺 Projekte
-
-- 🔧 **Projekt 1** – kleine Beschreibung  
-- 🔧 **Projekt 2** – kleine Beschreibung  
-*(füge hier einfach deine Repos ein, sobald du willst)*
 
 ---
 
