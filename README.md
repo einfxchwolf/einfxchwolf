@@ -25,6 +25,7 @@ Beginner Programmer
 ## 🎯 Ziele
 
 - Sehr gut im JavaScirpt werden
+- Gut mit AI auszukennen
 
 ---
 
