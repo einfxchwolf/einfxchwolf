@@ -25,11 +25,12 @@ Beginner Programmer
 ## 🎯 Ziele
 
 - Sehr gut im JavaScirpt werden
-- Nicht mehr oft eine Ki verwenden um Discord bots zu coden 
 
 ---
 
-## 📫 Kontakt
+## 📫 Kontakt 
 
 - GitHub: [einfxchwolf](https://github.com/einfxchwolf)
+
+
 
